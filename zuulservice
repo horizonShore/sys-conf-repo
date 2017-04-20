@@ -3,3 +3,4 @@ zuul.prefix: /api
 zuul.routes.orgainzationservice: /organization/**
 zuul.routes.organizationservice: /licensing/**
 hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 2500
+signing.key: "345345fsdfsf5345"
